@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amehr2003
-- 👀 I’m interested in ... photography
-- 🌱 I’m currently learning ... how to use git!
+- 👀 I’m interested in ... Cybersecurity and game development.
+- 🌱 I’m currently learning ... LISP !
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
